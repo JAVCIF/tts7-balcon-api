@@ -1,0 +1,11 @@
+bin/
+obj/
+release/
+*.user
+*.suo
+*.wav
+tts-qa/
+tts-stress/
+tts-controls/
+tools/balcon/*.exe
+tools/balcon/*.dll
